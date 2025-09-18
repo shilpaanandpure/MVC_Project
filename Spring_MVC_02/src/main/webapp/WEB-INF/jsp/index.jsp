@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>hello World how r u?</h1>
-<a href="reg">Registration Form</a>
+<a href="reg">Registration Form For Students</a>
 <a href="ref">click</a>
 <a href="updatepage">Update</a>
 <a href="deletpage">delet</a>
